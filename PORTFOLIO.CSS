@@ -1,0 +1,61 @@
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   background-color: rgb(30, 28, 28);
+   color: white;
+   max-width: 100%;
+}
+ .t{
+    position: absolute;
+    padding: 20px;
+    margin:0 auto ;
+    width: 100%;
+
+ }
+ #we{
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+ }
+#navbar{
+    background: none;
+    padding: 10px;
+    position: fixed;
+    margin-top:-4rem ;
+    font-size: 15px ;
+}
+.about{
+    margin-left: 12rem;
+}
+.about, .page, .services, .project{
+    margin-right: 12rem;
+    text-decoration:none ;
+    border-left: 3px solid orange;
+    border-right: 3px solid orange;
+    
+   /* position: relative;*/
+}
+#fi{
+   /*position: absolute;
+   left:800px ;
+   top:150px;
+   
+   padding-right:100px;*/
+   margin-top: -6rem;
+float: right;
+}
+
+
+.s{
+margin-top: 14rem;/*
+padding-left:100px ;*/
+}
+main{
+ 
+    
+    padding: 0px 100px ;
+}
+.r{
+margin-top: 28rem ;
+}
