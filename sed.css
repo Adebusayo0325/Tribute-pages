@@ -21,7 +21,7 @@ main{
 
 }
 .tr{
-    background-color: orange;
+    color: orange;
     padding: 2em;
     width: 33%;
 
@@ -29,14 +29,14 @@ main{
     
 }
 .gr{
-    background-color: alice-blue;
+   color: alice-blue;
     padding: 2em;
     width: 33%;
 
 
 }
 .fr{
-    background-color: green;
+    color: green;
     padding: 2em;
     width: 33%;
 
