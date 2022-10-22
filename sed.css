@@ -44,8 +44,11 @@ main{
     flex-direction: row;
     margin: auto;
     padding: 20px;
+    color: green;
 
 }
 .gm{
-    
+    font-size: 16px;
+    color: white;
+    padding: 30px 20px;
 }
