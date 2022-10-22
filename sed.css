@@ -16,6 +16,8 @@ main{
     height: 100vh;
     flex-direction: row;
     margin: auto;
+    box-shadow: black;
+    border-color: Black;
 
 }
 .tr{
