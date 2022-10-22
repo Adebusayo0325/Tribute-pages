@@ -17,29 +17,28 @@ main{
     flex-direction: row;
     margin: auto;
     box-shadow: black;
-    border-color: Black;
+    
 
 }
 .tr{
     background-color: white;
     padding: 2em;
-    width: 100%;
-border-color: Black;
+    width: 33%;
+
 
     
 }
 .gr{
     background-color: white;
     padding: 2em;
-    width: 100%;
-border-color: Black;
+    width: 33%;
+
 
 }
 .fr{
     background-color: white;
     padding: 2em;
-    width: 100%;
-border-color: Black;
+    width: 33%;
 
 }
 .mr{
